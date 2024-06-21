@@ -5,7 +5,7 @@
         <img src="@/assets/images/wood.png" class="thumb" />
         <p class="title">wood pallet</p>
         <p class="para">Load weight: 400 kg</p>
-        <ul class="description">
+        <ul v-if="showDescription" class="description">
           <li class="item">Length: 1200 mm, Width: 1200 mm, Height: 117 mm</li>
           <li>
             Premium wood pallets with dimensions 1200x1200x117 mm, the ideal solution for all your
@@ -46,7 +46,6 @@ const toggleDescription = () => {
 @media (min-width: 640px) {
   .grid-container {
     grid-template-columns: repeat(2, 1fr);
-    margin: 0;
   }
 }
 
