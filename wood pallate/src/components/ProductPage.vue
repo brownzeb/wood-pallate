@@ -11,10 +11,10 @@
             Premium wood pallets with dimensions 1200x1200x117 mm, the ideal solution for all your
             shipping and storage needs. Crafted from high-quality hardwood, these pallets offer
             exceptional durability and a robust load capacity, ensuring your goods are transported
-            safely and efficiently. Perfectly designed for compatibility with a variety of handling
-            equipment, our pallets streamline logistics operations, reducing time and labor costs.
-            Treated to meet international standards such as ISPM 15, they are pest-resistant and
-            suitable for global shipping.
+            safely and effissciently. Perfectly designed for compatibility with a variety of
+            handling equipment, our pallets streamline logistics operations, reducing time and labor
+            costs. Treated to meet international standards such as ISPM 15, they are pest-resistant
+            and suitable for global shipping.
           </li>
         </ul>
         <!-- <p @click="toggleDescription" class="toggle-description">Description</p> -->
